@@ -1,4 +1,4 @@
-//My incorrect solution:
+My incorrect solution:
 
 public class Solution {
     public bool IsPalindrome(int x) {
