@@ -38,7 +38,7 @@ Loop through the first index and then run a second iteration loop to compare the
 [0,1,2,3,4]
 ^
      ^ ^ ^ ^
-
+ 
 Code (in C#): 
 Public class Solution {	
 	Public int[] TwoSum(int[] nums, int target) {
